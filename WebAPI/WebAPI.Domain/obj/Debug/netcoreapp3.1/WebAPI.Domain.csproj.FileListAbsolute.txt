@@ -1,0 +1,10 @@
+F:\Anik\Personal\Doc\Singularity\Online Test\WebAPI\WebAPI.Domain\bin\Debug\netcoreapp3.1\WebAPI.Domain.deps.json
+F:\Anik\Personal\Doc\Singularity\Online Test\WebAPI\WebAPI.Domain\bin\Debug\netcoreapp3.1\WebAPI.Domain.dll
+F:\Anik\Personal\Doc\Singularity\Online Test\WebAPI\WebAPI.Domain\bin\Debug\netcoreapp3.1\WebAPI.Domain.pdb
+F:\Anik\Personal\Doc\Singularity\Online Test\WebAPI\WebAPI.Domain\obj\Debug\netcoreapp3.1\WebAPI.Domain.csproj.AssemblyReference.cache
+F:\Anik\Personal\Doc\Singularity\Online Test\WebAPI\WebAPI.Domain\obj\Debug\netcoreapp3.1\WebAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Anik\Personal\Doc\Singularity\Online Test\WebAPI\WebAPI.Domain\obj\Debug\netcoreapp3.1\WebAPI.Domain.AssemblyInfoInputs.cache
+F:\Anik\Personal\Doc\Singularity\Online Test\WebAPI\WebAPI.Domain\obj\Debug\netcoreapp3.1\WebAPI.Domain.AssemblyInfo.cs
+F:\Anik\Personal\Doc\Singularity\Online Test\WebAPI\WebAPI.Domain\obj\Debug\netcoreapp3.1\WebAPI.Domain.csproj.CoreCompileInputs.cache
+F:\Anik\Personal\Doc\Singularity\Online Test\WebAPI\WebAPI.Domain\obj\Debug\netcoreapp3.1\WebAPI.Domain.dll
+F:\Anik\Personal\Doc\Singularity\Online Test\WebAPI\WebAPI.Domain\obj\Debug\netcoreapp3.1\WebAPI.Domain.pdb
